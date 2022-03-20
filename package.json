@@ -1,5 +1,5 @@
 {
-  "name": "Abdullah M Babor",
+  "author": "Abdullah M Babor",
   "dependencies": {
     "express": "^4.14.0"
   },
